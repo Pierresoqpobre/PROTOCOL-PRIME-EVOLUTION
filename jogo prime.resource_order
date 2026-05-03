@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[
+    {"name":"armas e projeteis","order":10,"path":"folders/armas e projeteis.yy",},
+    {"name":"group1","order":7,"path":"folders/group1.yy",},
+    {"name":"player","order":8,"path":"folders/player.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Obj_botaoback","order":7,"path":"objects/Obj_botaoback/Obj_botaoback.yy",},
+    {"name":"Obj_botaostore","order":4,"path":"objects/Obj_botaostore/Obj_botaostore.yy",},
+    {"name":"Obj_projetil","order":1,"path":"objects/Obj_projetil/Obj_projetil.yy",},
+    {"name":"jogo","order":2,"path":"rooms/jogo/jogo.yy",},
+    {"name":"loja","order":3,"path":"rooms/loja/loja.yy",},
+    {"name":"among","order":1,"path":"sprites/among/among.yy",},
+    {"name":"botaovoltar","order":8,"path":"sprites/botaovoltar/botaovoltar.yy",},
+    {"name":"play","order":3,"path":"sprites/play/play.yy",},
+    {"name":"store","order":6,"path":"sprites/store/store.yy",},
+  ],
+}
